@@ -1,0 +1,23 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NgocB1910551-n4/Ct449-lab01.git"
+  },
+  "author": "Ngoc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NgocB1910551-n4/Ct449-lab01/issues"
+  },
+  "homepage": "https://github.com/NgocB1910551-n4/Ct449-lab01#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.18.2"
+  }
+}
