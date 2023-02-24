@@ -18,7 +18,8 @@
   "homepage": "https://github.com/NgocB1910551-n4/Ct449-lab01#readme",
   "dependencies": {
     "cors": "^2.8.5",
-    "express": "^4.18.2"
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.20"
